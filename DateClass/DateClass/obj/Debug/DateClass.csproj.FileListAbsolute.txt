@@ -1,0 +1,6 @@
+F:\Projects\FootBall Project\DateClass\DateClass\bin\Debug\DateClass.dll
+F:\Projects\FootBall Project\DateClass\DateClass\bin\Debug\DateClass.pdb
+F:\Projects\FootBall Project\DateClass\DateClass\obj\Debug\DateClass.csproj.AssemblyReference.cache
+F:\Projects\FootBall Project\DateClass\DateClass\obj\Debug\DateClass.csproj.CoreCompileInputs.cache
+F:\Projects\FootBall Project\DateClass\DateClass\obj\Debug\DateClass.dll
+F:\Projects\FootBall Project\DateClass\DateClass\obj\Debug\DateClass.pdb
